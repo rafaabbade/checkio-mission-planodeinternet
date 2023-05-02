@@ -4,7 +4,7 @@ def cota_megabytes(X, N, uso_mensal):
 
 
 print("Example:")
-print(soma(3,2))
+print(cota_megabytes(200, 2, [150, 220]))
 
 # As funções assert são utilizadas para verificar se o resultado da função chamada é o esperado
 # Teste 1
